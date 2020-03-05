@@ -1,0 +1,7 @@
+C:\Code\CalculatorTest\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.AssemblyInfoInputs.cache
+C:\Code\CalculatorTest\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.AssemblyInfo.cs
+C:\Code\CalculatorTest\CalculatorTest\bin\Debug\netstandard2.0\CalculatorTest.deps.json
+C:\Code\CalculatorTest\CalculatorTest\bin\Debug\netstandard2.0\CalculatorTest.dll
+C:\Code\CalculatorTest\CalculatorTest\bin\Debug\netstandard2.0\CalculatorTest.pdb
+C:\Code\CalculatorTest\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.dll
+C:\Code\CalculatorTest\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.pdb
